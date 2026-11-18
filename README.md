@@ -24,7 +24,7 @@ An AI-based MRI image classification project using deep learning feature extract
 **2. News Article Summarization**  
 An NLP application using Python, Flask and Hugging Face Transformers to generate article summaries.
 
-[View Repository](https://github.com/abhignan05/Text-Summarization-of-news-articles)
+[View Repository](https://github.com/abhignan05/Text-Summarization-of--news-articles/tree/Abhignan)
 
 **3. Sales Performance Dashboard – Power BI**  
 An interactive dashboard built to analyse sales performance, revenue, profit and business trends.
